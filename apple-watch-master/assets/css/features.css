@@ -1,0 +1,18 @@
+.features {
+    margin: 30px 0;
+}
+.features-inside{
+    display: flex;
+    justify-content: space-between;
+}
+.feature{
+    width: 270px;
+}
+.feature-title{
+    font-size: 18px;
+    text-transform: uppercase;
+    margin-bottom: 30px;
+}
+.feature-text {
+    margin-bottom: 20px;
+}
